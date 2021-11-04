@@ -1,3 +1,12 @@
+---
+content-type: Code Snippet
+---
+
+# Simple HTML Maintenance Page
+
+This code works as a copy in paste into anything that supports html e.g. index.html, index.php, etc.
+
+```js
 <!doctype html>
 <title>Site Maintenance</title>
 <style>
@@ -15,3 +24,11 @@
         <p>Sorry for the inconvenience but we&rsquo;re performing some maintenance at the moment. We&rsquo;ll be back online shortly!</p>
     </div>
 </article>
+```
+
+Small visual example without styling
+
+<h1>We&rsquo;ll be back soon!</h1>
+<div>
+<p>Sorry for the inconvenience but we&rsquo;re performing some maintenance at the moment. We&rsquo;ll be back online shortly!</p>
+</div>
